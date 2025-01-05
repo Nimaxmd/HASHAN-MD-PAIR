@@ -60,19 +60,19 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃HASHAN_MD_V2 SESSION IS 
+┃NIMA-X-MD-V1 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 HASHAN SATHSARA 𖥘
+❶ || Creator = 𖥘 NIMNA DULSHAN 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channeaeROEKPCPom0L
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vb1o91L72WTvgO0aay0e
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/hashan 👈
+Wanna talk to me?👉 https://rcd-github-real.github.io/dark-nima/ 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 Hashan md*
+©*2024-2099 NIMA-X-MD*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
