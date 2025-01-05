@@ -58,19 +58,19 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃HASHAN_MD_V2 SESSION IS 
+┃NIMA_X_MD_V1 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 HASHAN SATHSARA 𖥘
+❶ || Creator = 𖥘 NIMNA DULSHAN 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/VaeRrKPCPom0L
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/hashan_md 👈
+MY WEBSITE ?👉 https://rcd-github-real.github.io/dark-nima/ 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 Hashan Sathsara*
+©*2024-2099 NIMNA DULSHAN*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
