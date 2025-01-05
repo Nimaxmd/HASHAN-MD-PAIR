@@ -25,6 +25,6 @@ Don't Forget To Give Star
 
 module.exports = app
 /**
-    powered by wasi tech team 
+    powered by NIMA tech team 
     join Whatsapp channel for more updates 
-    **/
+    *https://whatsapp.com/channel/0029Vb1o91L72WTvgO0aay0e*/
